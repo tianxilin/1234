@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/menu_add"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/mene_grop"
+        android:title="@string/grop"/>
+    <item android:id="@+id/menu_addData"
+        android:title="添加测试数据"/>
+    <item android:title="@string/menu_about"
+      android:id="@+id/menu_about"
+
+        />
+</menu>

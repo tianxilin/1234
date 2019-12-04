@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">群友通讯录</string>
+    <string name="menu_add">添加</string>
+    <string name="menu_about">关于</string>
+    <string name="delete">删除</string>
+    <string name="finish">保存</string>
+    <string name="grop">分组查看</string>
+</resources>
